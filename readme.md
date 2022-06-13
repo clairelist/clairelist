@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my fullstack scaffold](https://github.com/clairelist/fullstack-scaffold)
 
-- 🌱 I’m currently learning **algorithms**
+- 🌱 I’m currently looking for a job! Ask me to build a **RESTful API** for you!
 
 - 👯 I’m looking to collaborate on **a microblogging app**
 
@@ -12,8 +12,6 @@
 - 💬 Ask me about **building an API in node!**
 
 - 📫 How to reach me **claire.list2501@gmail.com**
-
-- 📄 Know about my experiences [-link TBA-](-link TBA-)
 
 - ⚡ Fun fact **I love languages and hope to combine my love of linguistics with web development in a project one day.**
 
