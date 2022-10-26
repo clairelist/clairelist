@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my fullstack scaffold](https://github.com/clairelist/fullstack-scaffold)
 
-- 🌱 I’m currently looking for a job! Ask me to build a **RESTful API** for you!
+- 🌱 I'm currently working on a Spring / Java API with PostgreSQL!
 
 - 👯 I’m looking to collaborate on **a microblogging app**
 
