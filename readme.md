@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [my fullstack scaffold](https://github.com/clairelist/fullstack-scaffold)
 
-- 🌱 I'm currently working on a Spring / Java API with PostgreSQL!
+- 🌱 I'm also reinventing the wheel!
 
 - 👯 I’m looking to collaborate on **a microblogging app**
 
-- 👯 I'm wanting to learn **typescript**
+- 👯 I'm wanting to learn **Ruby**
 
 - 💬 Ask me about **building an API in node!**
 
